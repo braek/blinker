@@ -1,3 +1,3 @@
 # Blinker
 
-Blinking LEDs on Raspberry Pi.
+Blinking LEDs with Raspberry Pi
